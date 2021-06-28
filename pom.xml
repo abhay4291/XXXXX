@@ -62,24 +62,24 @@
 		<dependency>
 		    <groupId>org.apache.tomcat.embed</groupId>
 		    <artifactId>tomcat-embed-jasper</artifactId>
-		    <scope>provided</scope>
+		    <scope>8.5.35</scope>
 		</dependency>
 		<dependency>
 		    <groupId>org.apache.tomcat</groupId>
 		    <artifactId>tomcat-jasper</artifactId>
-		    <version>provided</version>
+		    <version>8.5.35</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-catalina -->
 		<dependency>
 		    <groupId>org.apache.tomcat</groupId>
 		    <artifactId>tomcat-catalina</artifactId>
-		    <version>provided</version>
+		    <version>8.5.35</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-servlet-api -->
 		<dependency>
 		    <groupId>org.apache.tomcat</groupId>
 		    <artifactId>tomcat-servlet-api</artifactId>
-		    <version>provided</version>
+		    <version>8.5.35</version>
 		</dependency>
 
 
