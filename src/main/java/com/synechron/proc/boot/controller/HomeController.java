@@ -42,6 +42,11 @@ public class HomeController {
 		ModelAndView mv = new ModelAndView("home");
 		return mv;
 	}
+	@RequestMapping(value = "/test", method = RequestMethod.GET)
+	public ModelAndView HomeTest(HttpServletRequest req, HttpServletResponse res) {
+		ModelAndView mv = new ModelAndView("welcome");
+		return mv;
+	}
 
 	@RequestMapping(value = "/register", method = RequestMethod.POST)
 	public ModelAndView RegisterUser(HttpServletRequest req, HttpServletResponse res,
