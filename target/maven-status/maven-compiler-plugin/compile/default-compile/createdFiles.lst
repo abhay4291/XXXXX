@@ -1,0 +1,14 @@
+com\synechron\proc\boot\repo\DataRepository.class
+com\synechron\proc\boot\repo\InsurancePlanDeleteRepo.class
+com\synechron\proc\boot\repo\InsurancPlanRepository.class
+com\synechron\proc\boot\service\UserServiceImpl.class
+com\synechron\proc\boot\model\UserRegistration.class
+com\synechron\proc\boot\service\UserService.class
+com\synechron\proc\boot\repo\CustomerRepository.class
+com\synechron\proc\boot\controller\HomeController.class
+com\synechron\proc\boot\model\User.class
+com\synechron\proc\boot\model\InsurancePlanDetails.class
+com\synechron\proc\boot\SbMvcApplication.class
+com\synechron\proc\boot\ServletInitializer.class
+com\synechron\proc\boot\model\CustomerDetails.class
+com\synechron\proc\boot\repo\InsuranceDetailsRepository.class
